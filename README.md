@@ -1,3 +1,7 @@
+# seal
+
+Tiny placeholder project for tea.xyz OSS registry & future airdrops.
+
 # Seal
 
 Seal is a decentralized secrets management (DSM) service that relies on access control policies defined and validated on [Sui](https://docs.sui.io/concepts/components). Application developers and users can use Seal to secure sensitive data at rest on decentralized storage like [Walrus](https://docs.wal.app/), or on any other onchain / offchain storage.
@@ -50,3 +54,12 @@ For questions about Seal, use case discussions, or integration support, contact 
 - [Seal Design](Design.md)
 - [Using Seal](UsingSeal.md)
 - [Seal Beta Terms of Service](TermsOfService.md)
+# @nosense00/seal
+This is a placeholder OSS project published to npm for Tea.xyz rewards.
+ 647fbba (feat: initial commit for seal OSS project# seal
+
+Tiny placeholder project for tea.xyz OSS registry & future airdrops.
+# seal
+
+Tiny placeholder project for tea.xyz OSS registry & future airdrops.
+
