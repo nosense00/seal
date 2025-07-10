@@ -1,0 +1,15 @@
+---
+project:
+  name: seal
+  type: library
+  description: Placeholder package for tea.xyz OSS rewards
+  repository: https://github.com/nosense00/seal
+  author: nosense00
+  license: MIT
+  keywords:
+    - tea.xyz
+    - oss
+    - airdrop
+    - seal
+    - placeholder
+
