@@ -12,4 +12,27 @@ project:
     - airdrop
     - seal
     - placeholder
+# Tea Protocol Constitution for @nosense00/seal
+version: 1.0.0
+project:
+  name: seal
+  description: A minimal but powerful project template.
+  repository: https://github.com/nosense00/seal
+  license: MIT
+  language: javascript
+  tags:
+    - utility
+    - automation
+    - toolkit
+contributors:
+  - name: nosense00
+    role: maintainer
+    contact:
+      github: https://github.com/nosense00
+      twitter: https://x.com/anonymousssV2
+      email: bisdakxxx@gmail.com
+tea:
+  readiness: true
+  oss: true
+
 
