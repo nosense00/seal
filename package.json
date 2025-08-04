@@ -1,0 +1,22 @@
+{
+  "name": "@nosense00/seal",
+  "version": "1.0.1",
+  "description": "Seal project for Tea.xyz OSS registry",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "nosense00",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": [
+    "seal",
+    "tea.xyz",
+    "oss",
+    "blockchain",
+    "depin"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nosense00/seal.git"
+  }
+}
