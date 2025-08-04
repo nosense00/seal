@@ -1,6 +1,6 @@
 {
   "name": "@nosense00/seal",
-  "version": "1.1.2",
+  "version": "1.1.6",
   "description": "Seal project for Tea.xyz OSS registry",
   "main": "index.js",
   "license": "MIT",
