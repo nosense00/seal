@@ -85,3 +85,5 @@ Badge farming placeholder 1 (Wave 3.1)
 Badge farming placeholder 2 (Wave 3.1)
 
 Badge farming placeholder 3 (Wave 3.1)
+
+<!-- Badge placeholder 1 (Wave 3.3) -->
