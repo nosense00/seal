@@ -81,3 +81,5 @@ Tiny placeholder project for tea.xyz OSS registry & future airdrops.
 <!-- badge test 3 -->
 
 Badge farming placeholder 1 (Wave 3.1)
+
+Badge farming placeholder 2 (Wave 3.1)
