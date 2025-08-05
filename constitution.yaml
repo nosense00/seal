@@ -1,5 +1,4 @@
-﻿# Constitution file for Tea Protocol OSS tracking
-project:
+﻿project:
   name: seal
   description: OSS project indexed for Tea Protocol
   license: MIT
