@@ -1,38 +1,6 @@
----
+﻿# Constitution file for Tea Protocol OSS tracking
 project:
   name: seal
-  type: library
-  description: Placeholder package for tea.xyz OSS rewards
-  repository: https://github.com/nosense00/seal
-  author: nosense00
+  description: OSS project indexed for Tea Protocol
   license: MIT
-  keywords:
-    - tea.xyz
-    - oss
-    - airdrop
-    - seal
-    - placeholder
-# Tea Protocol Constitution for @nosense00/seal
-version: 1.0.0
-project:
-  name: seal
-  description: A minimal but powerful project template.
-  repository: https://github.com/nosense00/seal
-  license: MIT
-  language: javascript
-  tags:
-    - utility
-    - automation
-    - toolkit
-contributors:
-  - name: nosense00
-    role: maintainer
-    contact:
-      github: https://github.com/nosense00
-      twitter: https://x.com/anonymousssV2
-      email: bisdakxxx@gmail.com
-tea:
-  readiness: true
-  oss: true
-
-
+  eligibility: true
