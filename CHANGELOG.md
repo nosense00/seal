@@ -7,3 +7,8 @@
 - CI workflow optimization for Tea/Base OSS indexing.
 - Minor README tweaks for clarity.
 
+
+## v1.0.3 - 2025-08-05
+- CI workflow optimization for Tea/Base OSS indexing.
+- Minor README tweaks for clarity.
+
