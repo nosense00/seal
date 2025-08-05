@@ -77,3 +77,5 @@ Tiny placeholder project for tea.xyz OSS registry & future airdrops.
 <!-- badge test 1 -->
 
 <!-- badge test 2 -->
+
+<!-- badge test 3 -->
