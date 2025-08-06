@@ -1,5 +1,4 @@
-﻿project:
-  name: seal
-  description: OSS project indexed for Tea Protocol
+constitution:
+  project: seal
+  maintainer: nosense00
   license: MIT
-  eligibility: true
