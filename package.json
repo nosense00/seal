@@ -1,22 +1,21 @@
 {
   "name": "@nosense00/seal",
-  "version": "1.1.6",
-  "description": "Seal project for Tea.xyz OSS registry",
+  "version": "1.0.0",
+  "description": "A minimal package for secure and efficient data sealing.",
+  "type": "module",
+  "exports": "./index.js",
   "main": "index.js",
-  "license": "MIT",
-  "author": "nosense00",
-  "scripts": {
-    "test": "echo \"No tests specified\" && exit 0"
-  },
-  "keywords": [
-    "seal",
-    "tea.xyz",
-    "oss",
-    "blockchain",
-    "depin"
+  "files": [
+    "index.js"
   ],
+  "scripts": {
+    "test": "node test.js"
+  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nosense00/seal.git"
-  }
+    "url": "https://github.com/nosense00/seal"
+  },
+  "keywords": ["security", "encryption", "tea.xyz", "node"],
+  "author": "nosense00",
+  "license": "MIT"
 }
