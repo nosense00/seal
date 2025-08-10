@@ -1,4 +1,16 @@
-constitution:
-  project: seal
-  maintainer: nosense00
-  license: MIT
+id: seal
+name: Seal
+description: A minimal package for secure and efficient data sealing.
+version: 1.0.0
+repository: https://github.com/nosense00/seal
+license: MIT
+tags:
+  - security
+  - encryption
+  - nodejs
+authors:
+  - name: nosense00
+    email: bisdakxxx@gmail.com
+    socials:
+      twitter: https://x.com/anonymousssV2
+      github: https://github.com/nosense00
