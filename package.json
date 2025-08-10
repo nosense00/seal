@@ -1,6 +1,6 @@
 {
   "name": "@nosense00/seal",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A minimal package for secure and efficient data sealing.",
   "type": "module",
   "exports": "./index.js",
@@ -15,7 +15,12 @@
     "type": "git",
     "url": "https://github.com/nosense00/seal"
   },
-  "keywords": ["security", "encryption", "tea.xyz", "node"],
+  "keywords": [
+    "security",
+    "encryption",
+    "tea.xyz",
+    "node"
+  ],
   "author": "nosense00",
   "license": "MIT"
 }
