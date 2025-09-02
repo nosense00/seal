@@ -1,29 +1,17 @@
-# ================================
-# SEAL Quick Submit Script
-# ================================
-param(
-    [string]$SealRepoUrl = "https://github.com/nosense00/seal.git",
-    [string]$SealLocal = "C:\Dev\seal"
-)
+Write-Host "🚀 Starting Tea Protocol Seal Submit..."
 
-Write-Host "=== Quick SEAL Submit Start ===" -ForegroundColor Cyan
-
-# Step 1: Clone repo kung wala pa
-if (!(Test-Path $SealLocal)) {
-    git clone $SealRepoUrl $SealLocal
-} else {
-    Set-Location $SealLocal
-    git pull origin main
+# Ensure git exists
+if (-not (Get-Command git -ErrorAction SilentlyContinue)) {
+    Write-Host "❌ Git not found. Install git first."
+    exit 1
 }
 
-# Step 2: Dummy change (para ma-seen commit lang)
-Set-Location $SealLocal
-$timestamp = Get-Date -Format "yyyy-MM-dd HH:mm:ss"
-Add-Content -Path "heartbeat.log" -Value "Seal active @ $timestamp"
+# Pull latest changes
+git pull origin main
 
-# Step 3: Commit & push
+# Commit any local changes
 git add .
-git commit -m "chore: heartbeat update @ $timestamp"
+git commit -m "tea protocol submission test" -ErrorAction SilentlyContinue
 git push origin main
 
-Write-Host "=== Quick SEAL Submit Done ✅ ===" -ForegroundColor Cyan
+Write-Host "✅ Seal submission complete!"
